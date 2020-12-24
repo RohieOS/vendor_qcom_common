@@ -67,4 +67,5 @@ PRODUCT_PACKAGES += \
     PerformanceMode \
     workloadclassifier \
     QPerformance \
+    QXPerformance \
     UxPerformance
